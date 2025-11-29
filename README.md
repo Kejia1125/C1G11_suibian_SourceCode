@@ -31,7 +31,7 @@ Inefficiencies and outdated building management systems persist due to the lack 
 ## 🔍 Project Overview
 
 ### **Project Topic**
-**SmartCampus Monitor — AI-Enhanced Occupancy & Energy Anomaly Detection System**
+**EnerSenseAI — AI-Enhanced Occupancy & Energy Anomaly Detection System**
 
 ### **Problem Statement**
 Cities, buildings, and campuses consume large amounts of energy, much of which is wasted due to poor occupancy awareness. Most institutions do not know in real time whether rooms are:
@@ -55,7 +55,7 @@ These inefficiencies persist due to the absence of a centralized intelligent mon
 
 ## 💡 Solution Summary
 
-**SmartCampus Monitor** is an AI-enhanced web system designed to:
+**EnerSense AI** is an AI-enhanced web system designed to:
 
 ✅ Monitor room occupancy and energy usage in real-time  
 ✅ Predict and suggest energy automation based on past behavior and weather  
