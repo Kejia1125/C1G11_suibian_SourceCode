@@ -101,3 +101,10 @@ OPENROUTER_API_KEY=your_api_key_here
 2. npm run dev
 
 
+## 🌐 Vercel Deployment
+
+The SmartBuilding Monitor web application is deployed and accessible online via **Vercel**:
+
+🔗 [Live Demo on Vercel](https://v0-smart-campus-monitor-app-draft.vercel.app/)
+
+
